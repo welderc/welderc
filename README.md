@@ -23,6 +23,8 @@
 ![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Java](https://img.shields.io/badge/Java-000000.svg??style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&logoColor=00599C&labelColor=0D1117) 
+![C++](https://img.shields.io/badge/-C%2B%2B-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=00599C&labelColor=0D1117) 
 
   
 <br>
