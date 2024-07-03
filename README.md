@@ -36,7 +36,7 @@
 <img height="450" width="430" align=left src ="https://user-images.githubusercontent.com/111553376/234618211-9c9a60cc-b9a5-4f82-92c0-00a29f40662f.gif" />
 <h1 align="center"> Sobre mim </h1>
 <hr>
-<p align="center">Sou desenvolvedor apaixonado por tecnologia, sempre em busca de novos desafios. Então tenho explorado diversas linguagens e tecnologias, buscando aprender e aprimorar minhas habilidades. Atualmente, meu foco principal é em projetos de desenvolvimento web e Back-end, mas estou sempre aberto a novas oportunidades e experiências. Sinta-se à vontade  para explorar meus repositórios e contribuições, e não hesite em entrar em contato para discutir ideias ou projetos interessantes. Vamos construir algo incrível juntos!😄</p>
+<p align="justify">Sou desenvolvedor apaixonado por tecnologia, sempre em busca de novos desafios. Então tenho explorado diversas linguagens e tecnologias, buscando aprender e aprimorar minhas habilidades. Atualmente, meu foco principal é em projetos de desenvolvimento web e Back-end, mas estou sempre aberto a novas oportunidades e experiências. Sinta-se à vontade  para explorar meus repositórios e contribuições, e não hesite em entrar em contato para discutir ideias ou projetos interessantes. Vamos construir algo incrível juntos!😄</p>
 <hr>
 <h2 align="center"> Game Favorito </h2>
 <p align="center"><strong>Skyrim</strong></p>
